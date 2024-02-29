@@ -38,18 +38,18 @@ To run **Casmart** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/casmart.git
+sudo git clone https://github.com/adnan-bhaldar/casmart.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/casmart.git
+git clone https://github.com/adnan-bhaldar/casmart.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Adnan__Bhaldar).
 
 ### License
 
